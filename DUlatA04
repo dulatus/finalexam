@@ -1,0 +1,11 @@
+At start of process execution, STDOUT & STDERR
+a) Point to current terminal device
+b) Are closed
+c) Point to special files on the system
+d) None of the above
+
+Which among the following interacts directly with system hardware?
+a) Shell
+b) Commands
+c) Kernel
+d) Applications
